@@ -34,4 +34,5 @@ This project analyzes business sales data to identify revenue trends, profitable
 - Dashboard Screenshots
 
 ## Dashboard Preview
-(Add screenshot here after upload)
+(<img width="764" height="423" alt="Screenshot 2026-05-19 192518" src="https://github.com/user-attachments/assets/a8afed3d-d652-4491-b989-94fc997350ae" />
+)
